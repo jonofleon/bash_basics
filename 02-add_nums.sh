@@ -22,3 +22,5 @@ read height
 producti_pixels=$(( width*height ))
 
 echo "total number pixels is $producti_pixels"
+echo "This was merged you are no longer birthday tested"
+
